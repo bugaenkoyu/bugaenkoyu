@@ -1,4 +1,4 @@
-![MasterHead](https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif)
+![MasterHead](https://simplecoding.dev/assets/devops.gif)
 <h1 align="center">Hi 👋, I'm Yurii Buhaienko</h1>
 <h3 align="center">Devops engineer from Ukraine</h3>
 
