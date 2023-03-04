@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **AWS and Terraform**
 
 - 📫 How to reach me **bugaenko.yu@gmail.com**
-(img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif")
+![gif](img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif")
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuriy-bugaenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuriy-bugaenko" height="30" width="40" /></a>
